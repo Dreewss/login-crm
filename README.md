@@ -7,8 +7,7 @@ Sistema de login para um CRM desenvolvido em PHP.
 - MySQL
 - HTML e CSS 
 
-![Tela de login](img/ap1.png)
+![Tela de login](https://github.com/Dreewss/login-crm/blob/main/ap1.png)
 
-![Tela de login erros](img/ap2.png)
-
+![Tela de login erros](https://github.com/Dreewss/login-crm/blob/main/ap2.png)
 
